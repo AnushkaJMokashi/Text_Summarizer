@@ -50,4 +50,6 @@ for filepath in list_of_files:
     else:
         logging.info(f"{filename} already exists!")
     
-    
+    ## to create vitual env
+    ## conda create -n textS python=3.8 -y
+    ##
