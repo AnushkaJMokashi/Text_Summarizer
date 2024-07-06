@@ -22,8 +22,3 @@ logger = logging.getLogger("textSummarizerLogger")
 
 ## saves log with date
 
-def save_log(log_str):
-    logger.info(log_str)
-
-def save_log_error(log_str):
-    logger.error(log_str)
