@@ -1,0 +1,5 @@
+conda install -c conda-forge pywinpty 
+## if you get error in installing pywinty 
+
+conda install -c conda-forge pyzstd
+## if you get error in installing pyzstd
