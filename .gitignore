@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 artifacts
-template
+template.py
