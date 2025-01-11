@@ -26,8 +26,6 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    
-    
 ]
 ##CI/CD related yaml automatic files
 ##automatically takes file from github and deployes it
